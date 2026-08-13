@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">rAI-SW — From PAT Data to Audit Readiness</title>
+  <desc id="desc">rAI-SW corporate website social preview</desc>
+  <defs>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#FFFFFF" stroke-opacity=".055"/></pattern>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1020 100) rotate(130) scale(600)"><stop stop-color="#2BC5D4" stop-opacity=".22"/><stop offset="1" stop-color="#102A43" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#102A43"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <circle cx="86" cy="83" r="7" fill="#F5A623"/>
+  <text x="108" y="90" fill="#FFFFFF" fill-opacity=".68" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="4">GMP-PAT DIGITAL VALIDATION PLATFORM</text>
+  <text x="72" y="220" fill="#F5A623" font-family="Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-3">r</text>
+  <text x="108" y="220" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-4">AI</text>
+  <line x1="225" y1="158" x2="225" y2="224" stroke="#FFFFFF" stroke-opacity=".3"/>
+  <text x="252" y="207" fill="#FFFFFF" fill-opacity=".62" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="7">SW</text>
+  <text x="72" y="355" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">From PAT Data</text>
+  <text x="72" y="445" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">to <tspan fill="#F5A623">Audit Readiness.</tspan></text>
+  <text x="72" y="548" fill="#FFFFFF" fill-opacity=".56" font-family="Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="5">IMPLEMENT.  VALIDATE.  OPERATE.  DEFEND.</text>
+  <rect x="1070" y="506" width="56" height="56" fill="#F5A623" transform="rotate(45 1098 534)"/>
+</svg>
